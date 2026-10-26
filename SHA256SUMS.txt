@@ -1,0 +1,2 @@
+045af32971e1c22419eeeaa2cd7b256a1a1040907bfa83c9f99ed9d00d414013  RoHelper-0.8.1-source.zip
+3e693c0794b70f0127031c168f3db6ad3ebb79b8f096ac67f51b0efc4c679f44  RoHelper-0.9.0-source.zip
