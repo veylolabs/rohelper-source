@@ -17,3 +17,5 @@ Each archive contains the full Helper source tree, UI, native implementation, re
 These are audited source snapshots, not workspace backups. No saved accounts, login sessions, browser profiles, inventories, private app-data files or developer home/workspace paths are included. Required upstream copyright, license and source-attribution notices remain intact.
 
 Source archives are intentionally hosted here rather than attached to app releases. Old source snapshots remain available for matching binaries.
+
+- [RoHelper 1.0.1 source](RoHelper-1.0.1-source.zip)
