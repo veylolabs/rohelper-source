@@ -19,3 +19,5 @@ These are audited source snapshots, not workspace backups. No saved accounts, lo
 Source archives are intentionally hosted here rather than attached to app releases. Old source snapshots remain available for matching binaries.
 
 - [RoHelper 1.0.1 source](RoHelper-1.0.1-source.zip)
+
+- [RoHelper 1.0.2 source](RoHelper-1.0.2-source.zip)
