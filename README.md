@@ -21,3 +21,5 @@ Source archives are intentionally hosted here rather than attached to app releas
 - [RoHelper 1.0.1 source](RoHelper-1.0.1-source.zip)
 
 - [RoHelper 1.0.2 source](RoHelper-1.0.2-source.zip)
+
+- [RoHelper 1.1.0 source](RoHelper-1.1.0-source.zip)
